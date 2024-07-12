@@ -12,7 +12,7 @@ const char* ssid = "pruebas";
 const char* password = "12345678";
 
 // Configuración de ThingsBoard
-const char* thingsboardServer = "192.168.126.213"; // Reemplaza con la IP de tu PC
+const char* thingsboardServer = "192.168.126.213"; 
 const char* accessToken = "5MjYIr34aKE6jQxysXRQ";
 
 WiFiClient wifiClient;
